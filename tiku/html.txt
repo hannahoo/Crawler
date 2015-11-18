@@ -1,0 +1,52 @@
+<fieldset class="quesborder">
+        <div class="pt1">
+            <span class="detailq">题目:</span>
+            <span class="uc_q_object">某同学做完实验后，采用下列方法清洗所用的仪器，其中达不到目的是</span><div class="quizPutTag" contenteditable="true"></div>&nbsp;        </div>
+        <div class="pt2">
+                <div class="quesborder">
+                    <ul>
+<!--                        <li style="width:100%" >A.用酒精清洗做过碘升华实验的试管</li>
+                        <li style="width:100%" >B.用热的纯碱溶液清洗盛过植物油的试管</li>
+                        <li style="width:100%" >C.用稀盐酸清洗管壁上附有碳酸钙的试管</li>
+                        <li style="width:100%" >D.用稀H2SO4清洗管壁上附有铜的试管</li>-->
+									<li style="width:100%;">A.用酒精清洗做过碘升华实验的试管</li>
+									<li style="width:100%;">B.用热的纯碱溶液清洗盛过植物油的试管</li>
+                                    <li style="width:100%;">C.用稀盐酸清洗管壁上附有碳酸钙的试管</li>
+                                    <li style="width:100%;">D.用稀H2SO4清洗管壁上附有铜的试管</li>
+                        <li class="cl"></li>
+                    </ul>
+                    <div class="cl"></div>
+                </div>
+
+            </div>        <div class="pt5">
+                <em>答案：</em>D    
+                
+            </div><!--             <div class="pt5">
+                <em>分析：</em>
+                            </div> -->
+            <div class="pt6 per_answer">
+                <em>解析：</em>
+					<div style="float:left;width:570px">
+<span class="uc_q_object">A、碘能溶于酒精，因而能用酒精清洗做过碘升华实验的试管；<br>B、热的纯碱溶液碱性很强，可使油脂水解，最后通过乳化作用清洗油污，加快其水解；<br>C、稀盐酸能和碳酸钙反应生成可溶性盐、水和二氧化碳，因而可用来清洗附碳酸钙的试管；<br>D、铜和稀硫酸不反应，故稀硫酸不能清洗试管壁上附有铜的试管．<br>故选：D．</span>					</div>
+                
+
+            </div>        <div class="pt6">
+                <!-- 相关试题 -->
+                <i>上一题 :</i> <a href="/q/113391.html">判断玻璃仪器已经洗净的标准是观察器壁上_____…</a><br>
+				<i>下一题 :</i> <a href="/q/113393.html">洗涤是生活、生产中不可缺少的操作过程，下列有关洗涤方法中不正确的是_____…</a>        </div>
+        <div class="addtime">
+               发布者：<i>xieyaping</i>&nbsp;<i>2014-12-09</i>
+        </div>
+
+
+        
+                <span class="fieldtip" style="margin:5px 0 0">
+            <a onclick="collectQuestion('113392',$(this))">收藏试题</a>
+<!--            <a>下载试题</a>-->
+            <a title="点击将把本题加入或移出您的试题篮" onclick="addCard($(this),'113392')">
+                <input class="smbtn addthis" type="button" value="">
+                试题篮
+            </a>
+        </span>
+
+    </fieldset>

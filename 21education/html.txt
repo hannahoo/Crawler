@@ -1,0 +1,346 @@
+<div class="content">
+  <p class="cite">当前位置：首页 &gt; 初中 &gt; </p>
+  <div class="shiti_side_content">
+  <div class="shiti_catagory frame">	
+    <ul class="catagory_title">
+      <li id="one1" class="hover" onclick="setTab('one',1,2)">按考点检索</li>
+      <li id="one2" onclick="setTab('one',2,2)" style="margin-left:-1px;">按教材检索</li>
+    </ul>
+      <ul id="con_one_1" class="treeview">
+
+
+<!------- cid考点检索 tree start ------>
+ 
+                                                <li class="expandable"><div class="hitarea expandable-hitarea"></div><a href="?mod=quest&amp;channel=2&amp;cid=2&amp;xd=2" _hover-ignore="1" class="" _orighref="?mod=quest&amp;channel=2&amp;cid=2&amp;xd=2" _tkworked="true">基础知识及语言表达</a>                                                <ul style="display: none;">
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=3&amp;xd=2">字音</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=4&amp;xd=2">字形</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=5&amp;xd=2">词语</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=6&amp;xd=2">语法</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=7&amp;xd=2">修辞格</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=8&amp;xd=2">成语（熟语）</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=9&amp;xd=2">标点符号</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=10&amp;xd=2">病句辨析</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=11&amp;xd=2">扩展语句、压缩语段</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=12&amp;xd=2">选用、仿用、变换句式</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=13&amp;xd=2">句式衔接</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=14&amp;xd=2">语言的简明连贯得体</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=15&amp;xd=2">图文转换</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=16&amp;xd=2">课文内容理解  </a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=17&amp;xd=2">书写规范</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=18&amp;xd=2">朗读、节奏</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=19&amp;xd=2">文言文翻译</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=20&amp;xd=2">字义</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=2321&amp;xd=2">词义</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=2322&amp;xd=2">名言警句</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=2323&amp;xd=2">综合实践学习</a>                                                                </li>
+                                                <li class="last"><a href="?mod=quest&amp;channel=2&amp;cid=2324&amp;xd=2">归纳总结</a>                                                                </li>
+                                                </ul>
+                                          </li>
+                             <li class="expandable"><div class="hitarea expandable-hitarea"></div><a href="?mod=quest&amp;channel=2&amp;cid=21&amp;xd=2">文学常识及鉴赏</a>                                                <ul style="display: none;">
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=22&amp;xd=2">先秦诸子百家</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=23&amp;xd=2">楚辞汉赋骈文（歌行、乐府）</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=24&amp;xd=2">历史记载类（二十四史、地方志、野史等）</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=25&amp;xd=2">古代散文、兵法农医、天文术数、艺术杂学等</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=26&amp;xd=2">古代应用公文类（含奏议、赠序、铭文、祭文等）</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=27&amp;xd=2">近代文学</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=28&amp;xd=2">外国文学</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=29&amp;xd=2">诗</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=30&amp;xd=2">词</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=31&amp;xd=2">曲</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=32&amp;xd=2">小说</a>                                                                </li>
+                                                <li class="last"><a href="?mod=quest&amp;channel=2&amp;cid=33&amp;xd=2">作家作品</a>                                                                </li>
+                                                </ul>
+                                          </li>
+                             <li class="expandable"><div class="hitarea expandable-hitarea"></div><a href="?mod=quest&amp;channel=2&amp;cid=34&amp;xd=2">文言文阅读</a>                                                <ul style="display: none;">
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=35&amp;xd=2">人物传记类</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=36&amp;xd=2">历史事件类</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=37&amp;xd=2">散文类</a>                                                                </li>
+                                                <li class="last"><a href="?mod=quest&amp;channel=2&amp;cid=38&amp;xd=2">公文类</a>                                                                </li>
+                                                </ul>
+                                          </li>
+                             <li class="expandable"><div class="hitarea expandable-hitarea"></div><a href="?mod=quest&amp;channel=2&amp;cid=39&amp;xd=2">现代文阅读</a>                                                <ul style="display: none;">
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=40&amp;xd=2">记叙类文本阅读</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=41&amp;xd=2">说明类文本阅读</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=42&amp;xd=2">议论类文本阅读</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=43&amp;xd=2">小说类文本阅读</a>                                                                </li>
+                                                <li class="expandable lastExpandable"><div class="hitarea expandable-hitarea lastExpandable-hitarea"></div><a href="?mod=quest&amp;channel=2&amp;cid=44&amp;xd=2">写景抒情类文本阅读</a>                                <ul style="display: none;">
+                                                                    <li><a href="?mod=quest&amp;channel=2&amp;cid=45&amp;xd=2">古代小说</a>                                        </li>
+                                                                    <li class="last"><a href="?mod=quest&amp;channel=2&amp;cid=46&amp;xd=2">现当代小说</a>                                        </li>
+                                </ul>
+                                                                </li>
+                                                </ul>
+                                          </li>
+                             <li class="expandable"><div class="hitarea expandable-hitarea"></div><a href="?mod=quest&amp;channel=2&amp;cid=47&amp;xd=2">默写，名著导读</a>                                                <ul style="display: none;">
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=48&amp;xd=2">诗</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=49&amp;xd=2">词</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=50&amp;xd=2">曲</a>                                                                </li>
+                                                <li class="expandable lastExpandable"><div class="hitarea expandable-hitarea lastExpandable-hitarea"></div><a href="?mod=quest&amp;channel=2&amp;cid=51&amp;xd=2">其他</a>                                <ul style="display: none;">
+                                                                    <li><a href="?mod=quest&amp;channel=2&amp;cid=52&amp;xd=2">国内文学作品</a>                                        </li>
+                                                                    <li><a href="?mod=quest&amp;channel=2&amp;cid=53&amp;xd=2">国外文学作品</a>                                        </li>
+                                                                    <li class="last"><a href="?mod=quest&amp;channel=2&amp;cid=54&amp;xd=2">汉字或汉字拼音</a>                                        </li>
+                                </ul>
+                                                                </li>
+                                                </ul>
+                                          </li>
+                             <li class="expandable lastExpandable"><div class="hitarea expandable-hitarea lastExpandable-hitarea"></div><a href="?mod=quest&amp;channel=2&amp;cid=55&amp;xd=2">作文及写作</a>                                                <ul style="display: none;">
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=56&amp;xd=2">命题作文</a>                                                                </li>
+                                                <li><a href="?mod=quest&amp;channel=2&amp;cid=57&amp;xd=2">材料作文</a>                                                                </li>
+                                                <li class="last"><a href="?mod=quest&amp;channel=2&amp;cid=58&amp;xd=2">话题作文</a>                                                                </li>
+                                                </ul>
+                                          </li>
+                                   
+<!---------cid 考点检索 tree end --------->
+
+
+
+       </ul>
+  
+
+<ul style="display:none;" id="con_one_2" class="treeview">
+
+<!------- catid 教材检索 tree start ------>
+
+         <!--循环一级分类 开始-->
+   
+ 
+<li id="10422" class="hasChildren expandable"><div class="hitarea hasChildren-hitarea expandable-hitarea"></div><span><a href="?mod=quest&amp;channel=2&amp;xd=2&amp;catid=10422">沪教版</a></span>
+  	<ul style="display: none;">
+<li class="last"><span class="placeholder">&nbsp;</span></li>
+</ul>
+	   
+
+</li>
+
+         <!--循环一级分类 开始-->
+   
+ 
+<li id="10423" class="hasChildren expandable"><div class="hitarea hasChildren-hitarea expandable-hitarea"></div><span><a href="?mod=quest&amp;channel=2&amp;xd=2&amp;catid=10423">人教新课标（标准实验版）</a></span>
+  	<ul style="display: none;">
+<li class="last"><span class="placeholder">&nbsp;</span></li>
+</ul>
+	   
+
+</li>
+
+         <!--循环一级分类 开始-->
+   
+ 
+<li id="10424" class="hasChildren expandable"><div class="hitarea hasChildren-hitarea expandable-hitarea"></div><span><a href="?mod=quest&amp;channel=2&amp;xd=2&amp;catid=10424">苏教版</a></span>
+  	<ul style="display: none;">
+<li class="last"><span class="placeholder">&nbsp;</span></li>
+</ul>
+	   
+
+</li>
+
+         <!--循环一级分类 开始-->
+   
+ 
+<li id="10425" class="hasChildren expandable"><div class="hitarea hasChildren-hitarea expandable-hitarea"></div><span><a href="?mod=quest&amp;channel=2&amp;xd=2&amp;catid=10425">语文版</a></span>
+  	<ul style="display: none;">
+<li class="last"><span class="placeholder">&nbsp;</span></li>
+</ul>
+	   
+
+</li>
+
+         <!--循环一级分类 开始-->
+   
+ 
+<li id="10426" class="hasChildren expandable"><div class="hitarea hasChildren-hitarea expandable-hitarea"></div><span><a href="?mod=quest&amp;channel=2&amp;xd=2&amp;catid=10426">北师大版</a></span>
+  	<ul style="display: none;">
+<li class="last"><span class="placeholder">&nbsp;</span></li>
+</ul>
+	   
+
+</li>
+
+         <!--循环一级分类 开始-->
+   
+ 
+<li id="22776" class="hasChildren expandable"><div class="hitarea hasChildren-hitarea expandable-hitarea"></div><span><a href="?mod=quest&amp;channel=2&amp;xd=2&amp;catid=22776">鄂教版</a></span>
+  	<ul style="display: none;">
+<li class="last"><span class="placeholder">&nbsp;</span></li>
+</ul>
+	   
+
+</li>
+
+         <!--循环一级分类 开始-->
+   
+ 
+<li id="25778" class="hasChildren expandable"><div class="hitarea hasChildren-hitarea expandable-hitarea"></div><span><a href="?mod=quest&amp;channel=2&amp;xd=2&amp;catid=25778">冀教版</a></span>
+  	<ul style="display: none;">
+<li class="last"><span class="placeholder">&nbsp;</span></li>
+</ul>
+	   
+
+</li>
+
+         <!--循环一级分类 开始-->
+   
+ 
+<li id="27850" class="hasChildren expandable"><div class="hitarea hasChildren-hitarea expandable-hitarea"></div><span><a href="?mod=quest&amp;channel=2&amp;xd=2&amp;catid=27850">鲁教版</a></span>
+  	<ul style="display: none;">
+<li class="last"><span class="placeholder">&nbsp;</span></li>
+</ul>
+	   
+
+</li>
+
+         <!--循环一级分类 开始-->
+   
+ 
+<li id="30827" class="hasChildren expandable"><div class="hitarea hasChildren-hitarea expandable-hitarea"></div><span><a href="?mod=quest&amp;channel=2&amp;xd=2&amp;catid=30827">浙教版</a></span>
+  	<ul style="display: none;">
+<li class="last"><span class="placeholder">&nbsp;</span></li>
+</ul>
+	   
+
+</li>
+
+         <!--循环一级分类 开始-->
+   
+ 
+<li id="30828" class="hasChildren expandable"><div class="hitarea hasChildren-hitarea expandable-hitarea"></div><span><a href="?mod=quest&amp;channel=2&amp;xd=2&amp;catid=30828">粤教版</a></span>
+  	<ul style="display: none;">
+<li class="last"><span class="placeholder">&nbsp;</span></li>
+</ul>
+	   
+
+</li>
+
+         <!--循环一级分类 开始-->
+   
+ 
+<li id="54360" class="hasChildren expandable"><div class="hitarea hasChildren-hitarea expandable-hitarea"></div><span><a href="?mod=quest&amp;channel=2&amp;xd=2&amp;catid=54360">沪教版(五四学制)</a></span>
+  	<ul style="display: none;">
+<li class="last"><span class="placeholder">&nbsp;</span></li>
+</ul>
+	   
+
+</li>
+
+         <!--循环一级分类 开始-->
+   
+ 
+<li id="57672" class="hasChildren expandable lastExpandable"><div class="hitarea hasChildren-hitarea expandable-hitarea lastExpandable-hitarea"></div><span><a href="?mod=quest&amp;channel=2&amp;xd=2&amp;catid=57672">长春版</a></span>
+  	<ul style="display: none;">
+<li class="last"><span class="placeholder">&nbsp;</span></li>
+</ul>
+	   
+
+</li>
+
+        <!--循环一级分类 结束-->
+   
+<!------- catid 教材检索 tree end ------>	
+   	   
+   
+        </ul>	
+  
+  
+  
+  </div>
+  <div class="cl"></div>
+  </div>
+  
+  <div class="shiti_container">
+    <div class="catagory frame shiti_top">
+
+<!-----------------学科------------------>
+      <p><b>学科：</b>
+  <a href="tiku.php?mod=quest&amp;channel=2&amp;xd=2" class="current">语文</a>
+  <a href="tiku.php?mod=quest&amp;channel=3&amp;xd=2">数学</a>
+  <a href="tiku.php?mod=quest&amp;channel=4&amp;xd=2">英语</a>
+    <a href="tiku.php?mod=quest&amp;channel=6&amp;xd=2">物理</a>
+  <a href="tiku.php?mod=quest&amp;channel=7&amp;xd=2">化学</a>
+  <a href="tiku.php?mod=quest&amp;channel=8&amp;xd=2">历史</a>
+  <a href="tiku.php?mod=quest&amp;channel=9&amp;xd=2">政治思品</a>
+  <a href="tiku.php?mod=quest&amp;channel=10&amp;xd=2">地理</a>
+  <a href="tiku.php?mod=quest&amp;channel=11&amp;xd=2">生物</a>
+                        </p>
+      <!--p><b>版本：</b></p-->
+  
+  <!-----------------题型------------------>
+      <p><b>题型：</b>
+       <a href="tiku.php?mod=quest&amp;xd=2&amp;channel=2&amp;cid=0" class="current">全部</a>
+                <a href="tiku.php?mod=quest&amp;channel=2&amp;cid=0&amp;type=1&amp;xd=2">单选题</a>
+                <a href="tiku.php?mod=quest&amp;channel=2&amp;cid=0&amp;type=8&amp;xd=2">写作题</a>
+                <a href="tiku.php?mod=quest&amp;channel=2&amp;cid=0&amp;type=10&amp;xd=2">其它题型</a>
+                <a href="tiku.php?mod=quest&amp;channel=2&amp;cid=0&amp;type=12&amp;xd=2">现代文阅读</a>
+                <a href="tiku.php?mod=quest&amp;channel=2&amp;cid=0&amp;type=13&amp;xd=2">文言文阅读</a>
+                <a href="tiku.php?mod=quest&amp;channel=2&amp;cid=0&amp;type=14&amp;xd=2">诗歌鉴赏</a>
+                <a href="tiku.php?mod=quest&amp;channel=2&amp;cid=0&amp;type=15&amp;xd=2">语言表达</a>
+                <a href="tiku.php?mod=quest&amp;channel=2&amp;cid=0&amp;type=16&amp;xd=2">名著导读</a>
+                <a href="tiku.php?mod=quest&amp;channel=2&amp;cid=0&amp;type=17&amp;xd=2">默写</a>
+                <a href="tiku.php?mod=quest&amp;channel=2&amp;cid=0&amp;type=18&amp;xd=2">书写</a>
+               <span class="cl"></span>
+  </p>
+
+    </div>
+    <div class="frame questions">
+      <h2><b></b>
+        <!--p class="label"><span>资源下载：<a href="#">课件</a></span> | <span><a href="#">学案</a></span> | <span><a href="#">素材</a></span> | <span><a href="#">试卷</a></span> | <span><a href="#">教案</a></span></p-->
+      </h2>
+      <div class="questions_col">
+      <ul>
+                               <li><!--<br />-->
+                诗文默写【本题满分10分】<br>【小题1】．必做题：请将下列两首诗补充完整。（4分）<br>（1）《观书有感》（朱熹）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><em>半亩方塘一鉴开</em>，&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>天光云影共徘徊。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>？&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>(2）《峨眉山月歌》（李白）<br>峨眉山月半轮秋，<br>影入平羌江水流。<br><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，<br><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。<br>【小题2】．选做题：请任意选取6道小题作答，多做不多得分；若多做，阅卷只阅前6道小题。（6分）<br>①梳洗罢，独倚望江楼。<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。（《望江南》温庭筠）<br>②《十一月四日风雨大作》中，表现诗人连梦中都想上阵杀敌，为国立功的诗句：<br><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。<br>③《秋词》中通过鲜明的艺术形象抒发诗人乐观旷达胸怀，奋发进取之志的诗句：<br><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://tiku.21cnjy.com/tikupic/83/74/833749997cfa14f7c379be784128bcfb.gif" style="vertical-align:middle;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。<br>④<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，波撼岳阳城。<br>⑤<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://tiku.21cnjy.com/tikupic/60/31/60631a1fb75429cf315a04d43f5fd3cc.gif" style="vertical-align:middle;">&nbsp;&nbsp;</u>，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>；居庙堂之高则忧其民；处江湖之远则忧其君。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（《岳阳楼记》范仲淹）<br>⑥为什么我的眼里常含泪水？<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://tiku.21cnjy.com/tikupic/83/74/833749997cfa14f7c379be784128bcfb.gif" style="vertical-align:middle;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>&nbsp;&nbsp;&nbsp;（《我爱这土地》艾青）<br>⑦国破山河在，城春草木深。<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。&nbsp;&nbsp;&nbsp;&nbsp;（《春望》杜甫）<br>⑧假如生活欺骗了你，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>&nbsp;! 忧郁的日子里需要镇静:<br><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，<img src="http://tiku.21cnjy.com/tikupic/60/31/60631a1fb75429cf315a04d43f5fd3cc.gif" style="vertical-align:middle;"><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。（《假如生活欺骗了你》普希金）                <p class="btns">
+                <a target="_blank" href="quest/4OTNzzUc.html" class="view_all">查看解析</a>  <a target="_blank" href="http://zujuan.21cnjy.com/" class="view_all to-zujuan">添加到组卷</a> 
+                </p><p>
+              </p></li>
+                    <li><!--<br />-->
+                （二）阅读《敬业与乐业》，完成10-13题。（9分）<br>孔子说：“饱食终日，无所用心，难矣哉！”又说：“群居终日，言不及义，好行小慧，难矣哉！”孔子是一位教育大家，他心目中没有什么人不可教诲，独对于这两种人便摇头叹气说道：“难！难！”可见人生一切毛病都有药可医，惟有无业游民，虽大圣人碰着他，也没有办法。<br>唐朝有一位名僧百丈禅师，他常常用两句格言教训弟子，说道：“一日不做事，一日不吃饭。”他每日除上堂说法之外，还要自己扫地、擦桌子、洗衣服，直到八十岁，日日如此。有一回，他的门生想替他服务，把他本目应做的工悄悄地都做了，这位言行相顾的老禅师，老实不客气，那一天便绝对的不肯吃饭。<br>我征引儒门、佛门这段话，不外证明人人都要有正当职业，人人都要不断的劳作。倘若有人问我：“百行什么为先？万恶什么为首？”我便一点不迟疑答道：“百行业为先，万恶懒为首。”没有职业的懒人，简直是社会上的蛀米虫，简直是“掠夺别人勤劳果实”的盗贼。我们对于这种人，是要彻底讨伐，万不能容赦的。今日所讲，专为现在有职业及现在正做职业上预备的人——学生——说法，告诉他们对于自己现有的职业应采取何种态度。<br>【小题1】、请你用一句话概括出文段要表达的意思。（可用文中原话）（2分）<br>【小题2】、“这位言行相顾的老禅师……”中的“言行相顾”指什么？结合文章解释。(2分)<br>【小题3】、“孔子是一位教育大家……对于这两种人便摇头叹气说道”中的“摇头叹气”是作者的想象，你认为它有何作用。(2分)<br>【小题4】、“百行业为先，万恶懒为首”。“懒”是许多学生的通病，请你说说是什么原因使你有点懒？（3分）                <p class="btns">
+                <a target="_blank" href="quest/yMjOD2IM.html" class="view_all">查看解析</a>  <a target="_blank" href="http://zujuan.21cnjy.com/" class="view_all to-zujuan">添加到组卷</a> 
+                </p><p>
+              </p></li>
+                    <li><!--<br />-->
+                （二）阅读《端午的鸭蛋》（14分）<br>端午的鸭蛋<br>汪曾祺<br>A<u>我的家乡是水乡。出鸭。高邮大麻鸭是著名的鸭种。鸭多，鸭蛋也多。</u>高邮人也善于腌鸭蛋。高邮咸鸭蛋于是出了名。我在苏南、浙江，每逢有人问起我的籍贯，回答之后，对方就会肃然起敬：“哦！你们那里出咸鸭蛋！”上海的卖腌腊的店铺里也卖咸鸭蛋，必用纸条特别标明：“高邮咸蛋”。高邮还出双黄鸭蛋。别处鸭蛋也偶有双黄的，但不如高邮的多，可以成批输出。双黄鸭蛋味道其实无特别处。还不就是个鸭蛋！只是切开之后，里面圆圆的两个黄，使人惊奇不已。我对异乡人称道高邮鸭蛋，是不大高兴的，好像我们那穷地方就出鸭蛋似的！不过高邮的咸鸭蛋，确实是好，我走的地方不少，所食鸭<img src="http://tiku.21cnjy.com/tikupic/f0/b9/f0eb91741fdbe68bf96b21284d61da91.gif" style="vertical-align:middle;">蛋多矣，但和我家乡的完全不能相比！B<u>曾经沧海难为水，他乡咸鸭蛋，我实在瞧不上。</u>袁枚的《随园食单·小菜单》有“腌蛋”一条。袁子才这个人我不喜欢，他的《食单》好些菜的做法是听来的，他自己并不会做菜。但是《腌蛋》这一条我看后却觉得很亲切，而且“与有荣焉”。文不长，录如下：<br>腌蛋以高邮为佳，颜色细而油多，高文端公最喜食之。席间，先夹取以敬客，放盘中。总宜切开带壳，黄白兼用；不可存黄去白，使味不全，油亦走散。<br>高邮咸蛋的特点是质细而油多。蛋白柔嫩，不似别处的发干、发粉，入口如嚼石灰。油多尤为别处所不及。鸭蛋的吃法，如袁子才所说，带壳切开，是一种，那是席间待客的办法。C<u>平常食用，一般都是敲破“空头”用筷子挖着吃。</u>筷子头一扎下去，吱——红油就冒出来了。高邮咸蛋的黄是通红的。苏北有一道名菜，叫做“朱砂豆腐”，就是用高邮鸭蛋黄炒的豆腐。我在北京吃的咸鸭蛋，蛋黄是浅黄色的，这叫什么咸鸭蛋呢！<br>【小题1】.选段主要写了两方面内容，先写了高邮咸鸭蛋<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，然后写了高邮咸鸭蛋<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>（2分）<br>【小题2】.仔细揣摩划线词语在文中的作用。（2分）<br>筷子头一扎下去，<u>吱</u>——红油就冒出来了。<br>【小题3】.选文透露出作者对家乡的咸鸭蛋什么感情？请结合文段举一例句简要分析。（3分）<br>【小题4】．汪曾祺是一位非常讲究语言艺术的作家，他曾经谈到自己在语言上的追求：平淡而有味；用适当的方言表现作品的地方特色；有淡淡的幽默。文中画线A、B、C三句分别体现了他怎样的语言特色，请任选一处并简要赏析。（3分）<br>我选<u>&nbsp;&nbsp;&nbsp;&nbsp;</u>处，简要赏析：<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://tiku.21cnjy.com/tikupic/72/9d/72d9de0219cc572efaeabc8a85926f2c.gif" style="vertical-align:middle;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u><br>【小题5】.材料链接<br>材料一：在日复一日的时间河流里，节日就像一个个<img src="http://tiku.21cnjy.com/tikupic/85/fa/854fa8e584537ee6846ccc215cb93e1a.gif" style="vertical-align:middle;">停泊的码头。对不少人来说，“吃”成了过传统节日的主要内容，好像吃了某一节日的特色食品就算过完这一节日了。特别是每个传统节日前夕，商家为了推销节日食品，大肆炒作，为“吃”推波助澜。<br>材料二：端午包粽子，中秋观圆月，重阳赏菊花……在中国古老绵长的文化书卷中，不同的地域、不同的民族、不同的时代、不同的人，却拥有一种相同的文化情怀。但与此同时，外来的文化和风俗在华夏大地上席卷开来。雍容的西方情人节——巧克力和玫瑰的魅力让人们忘却了七夕“鹊桥相会”的浪漫故事；狂欢的圣诞节——圣诞树和震撼的音乐让人们丢弃了火红的灯笼……<br>（1）阅读了以上两则材料，你有何感受？（2分）<br>（2）请你就如何保护传统节日提出两点建议。（2分）                <p class="btns">
+                <a target="_blank" href="quest/3OTOD3Yk.html" class="view_all">查看解析</a>  <a target="_blank" href="http://zujuan.21cnjy.com/" class="view_all to-zujuan">添加到组卷</a> 
+                </p><p>
+              </p></li>
+                    <li><!--<br />-->
+                依次填入下列句子横线处的词语，最恰当的一项是(&nbsp;&nbsp;&nbsp; ) （3分）<br>①.等到月升中天，清光从两棵梨树间筛洒而下，地上阴影<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，此时尤为幽绝。<br>②.学校正积极<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;　</u>春季运动会，各项工作都作了明确而细致的分工。<br>③.一群四五岁孩子表演的《猫》剧十分有趣。他们或唱或跳，或打或闹，将猫的各种举止神态模仿得<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。<br>④．用心去<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>花开的声音！你会发现那才是天下最美的风景！<table name="optionsTable" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="50%">A．斑驳　筹备　惟妙惟肖　　聆听<code title="中小学题库" class="hidejammersa">; e4 V8 i3 i$ I4 Q" P</code>&nbsp;</td><td width="50%">B．斑斓　筹划栩栩如生　　倾听<code title="tiku.21cnjy.com" class="hidejammersa">9 N. T; h( F/ L</code>&nbsp;</td></tr><tr><td width="50%">C．斑斓　　筹备　栩栩如生　倾听<u alt="免费中小学题库" class="hidejammersa">7 _; S1 b2 G( b% e1 [</u>&nbsp;</td><td width="50%">D．斑驳　　筹划　 惟妙惟肖　　聆听<code alt="免费中小学题库" class="hidejammersa">5 C7 V5 i* C4 [# V9 F</code>&nbsp;</td></tr></tbody></table>                <p class="btns">
+                <a target="_blank" href="quest/4NzODwgM.html" class="view_all">查看解析</a>  <a target="_blank" href="http://zujuan.21cnjy.com/" class="view_all to-zujuan">添加到组卷</a> 
+                </p><p>
+              </p></li>
+                    <li><!--<br />-->
+                （二）《那树》（14分）<br>①那树立在那条路边上已经很久很久了。当时路还只是一条泥泞的小径时，它就立在那里；当路上驶过第一辆汽车之前，它就立在那里；当这一带只有稀稀落落几处老式平房时，它就立在那里。<br>②那树有一点佝偻，露出老态，但是坚固稳定，树顶像刚炸开的焰火一样繁密。认识那棵树的人都说，有一年，台风连吹两天两夜，附近的树全都吹断，房屋也倒坍了不少，只有那棵树屹立不动，而且据说，连一片树叶都没有掉下来。这真令人难以置信。据说，当这一带还没有建造新公寓之前，陆上台风紧急警报声中，总有人到树干上漩涡形的洞里插一炷香呢。<br>③那的确是一株坚固的大树，霉黑潮湿的皮层上，有隆起的筋和纵裂的纹，像生铁铸就的模样。几丈以外的泥土下，还看出有树根的伏脉。在夏天的太阳下挺着颈子急走的人，会像猎犬一样奔到树下，吸一口浓阴，仰脸看千掌千指托住阳光，看指缝间漏下来的碎汞。有时候，的确连树叶也完全静止。<br>④于是鸟来了，鸟叫的时候，几丈外幼稚园里的孩子也在唱歌。<br>⑤于是情侣止步，夜晚，树下有更黑的黑暗；于是那树，那沉默的树，暗中伸展它的根，加大它所能荫庇的土地，一厘米一厘米地向外。<br>⑥但是这世界上还有别的东西，别的东西延伸得更快，柏油路一里一里铺过来，高压线一千码一千码架过来，公寓楼房一排一排挨过来。所有原来在地面上自然生长的东西都被铲除，被连根拔起。只有那树被一重又一重死鱼般的灰白色包围，连根须都被压路机碾进灰色之下，但树顶仍在雨后滴翠，有新的建筑物衬托，绿得更深沉。公共汽车在树旁插下站牌，让下车的人好在树下从容撑伞。入夜，毛毛细雨比猫步还轻，跌进树叶里汇成敲响路面的点点滴滴，泄漏了秘密，很湿，夜很有诗意。那树被工头和工务局里的科员端详过计算过无数次，但他依然绿着。<br>【小题1】选文前5段描写了“那树”的哪三个方面？表达了作者对“那树”怎样的感情?（5分）<br>【小题2】“柏油一里一里铺过来，高压线一千码一千码架过来，公寓楼一排一排挨过来”，运用了什么修辞手法，表达了什么意思，流露出作者怎样的情感? （3分）<br>【小题3】日本福岛核泄露引发全球核电安全大讨论，结合《那树》一文所表达的观点，你认为人类在对付现代文明造成的灾害时，该有怎样的态度？　（3分）<br>【小题4】下面对这篇文章的赏析，不正确的一项是(&nbsp;&nbsp;&nbsp;&nbsp; )（3分）<table name="optionsTable" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="100%">A．那树经久屹立，目睹着大地的沧海桑田，给人以邈远的历史感；它在大自然的灾祸面前“毫发”未损，似古老而茂盛的生命旗帜。<code title="tiku.21cnjy.com" class="hidejammersa">&amp; \( C1 g4 V! G8 `</code>&nbsp;</td></tr><tr><td width="100%">B．那树具有高尚的品格，对人类有着巨大的价值，作者对它怀有深情，但它最终却遭受人类的算计。<u title="tiku.21cnjy.com" class="hidejammersa">" @' _, Y" j  ?, F8 [: @" T* i&amp; `</u>&nbsp;</td></tr><tr><td width="100%">C．那树虽然很久以来一直为人类默默奉献，但随着城市的发展，它早晚必然引颈受戮。文章既歌颂了它的献身精神，也体现了一切都要为了发展的主旨。<code title="tiku.21cnjy.com" class="hidejammersa">0 Q: C( j( c( K% [3 V; Q) h  f: J7 ^</code>&nbsp;</td></tr><tr><td width="100%">D．本文用语形象生动，而且充满感情，如“屹立不动”“炸开的火焰”“雨后滴翠”“绿得更深沉”“依然绿着”等都生动地描述了那树的形象，感人至深。<address title="tiku.21cnjy.com" class="hidejammersa">2 G' f; L, T" d# G' W4 D</address>&nbsp;</td></tr></tbody></table>E．不发议论，全用形象打动人心，是本文一大特点。那树用自己的生命绿了一方土地，其”绿着生，绿着死”的形象给读者以强烈的震撼。                <p class="btns">
+                <a target="_blank" href="quest/gDNyA__QMT3M.html" class="view_all">查看解析</a>  <a target="_blank" href="http://zujuan.21cnjy.com/" class="view_all to-zujuan">添加到组卷</a> 
+                </p><p>
+              </p></li>
+                    <li><!--<br />-->
+                古诗词名句默写（10分） <br>【小题1】_______<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>_______，日高人渴漫思茶。（苏轼《浣溪沙》）<br>【小题2】过尽千帆皆不是，_____________<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>_。（温庭筠《望江南》）<br>【小题3】关关雎鸠，在河之洲。__________<u>&nbsp;&nbsp;&nbsp;</u>___，_______<u>&nbsp;&nbsp;&nbsp;&nbsp;</u>____。（《关雎》）<br>【小题4】锦江春色来天地，__________________<u>&nbsp;&nbsp;&nbsp;&nbsp;</u>_。（杜甫《登楼》）<br>【小题5】______________<u>&nbsp;&nbsp;&nbsp;&nbsp;</u>，雪拥蓝关马不前。（韩愈《左迁至蓝关示侄孙湘》）<br>【小题6】为了创建文明城市，提升城市文化品位，我市相关部门向市民征集含飞鸟的诗词佳句，镌刻在公园的山石廊柱上，请推荐你最欣赏的连续的两句：__________________<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>___，____________<u>&nbsp;&nbsp;&nbsp;&nbsp;</u>________。（课内外均可）<br>【小题7】黄河是中华民族的母亲河，是中国五千年灿烂文明的摇篮。古代诗人以她为题材写下了许多脍炙人口的诗句，请任意写两句与黄河相关的完整诗句：____________________<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>_，__________________<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>_。                <p class="btns">
+                <a target="_blank" href="quest/czNzA__QMT1N.html" class="view_all">查看解析</a>  <a target="_blank" href="http://zujuan.21cnjy.com/" class="view_all to-zujuan">添加到组卷</a> 
+                </p><p>
+              </p></li>
+                    <li><!--<br />-->
+                依次填入下列句子横线处的词语，最恰当的一项是（&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;）（3分）<br>①.等到月升中天，清光从两棵梨树间筛洒而下，地上阴影<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，此时尤为幽绝。<br>②.学校正积极<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;　</u>春季运动会，各项工作都作了明确而细致的分工。<br>③.一群四五岁孩子表演的《猫》剧十分有趣。他们或唱或跳，或打或闹，将猫的各种举止神态模仿得<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。<br>④．用心去<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>花开的声音！你会发现那才是天下最美的风景！<table name="optionsTable" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="50%">A．斑驳　筹备　惟妙惟肖　　聆听<span class="jammerd42" title="tiku.21cnjy.com">$ N* T  G9 b' e( T' M% Y3 R# V</span> </td><td width="50%">B．斑斓　筹划栩栩如生　　倾听<font class="jammerd42" title="中小学题库">, W2 H7 h* C$ M&amp; Z: P# L# f# S</font> </td></tr><tr><td width="50%">C．斑斓　　筹备　栩栩如生　倾听<b class="jammerd42" alt="21题库">&amp; g, Y7 \6 R  _% B</b> </td><td width="50%">D．斑驳　　筹划　 惟妙惟肖　　聆听<u class="jammerd42" title="tiku.21cnjy.com">6 N6 i! Q. Y$ h5 g; @</u> </td></tr></tbody></table>                <p class="btns">
+                <a target="_blank" href="quest/UTOzA__AMTwM.html" class="view_all">查看解析</a>  <a target="_blank" href="http://zujuan.21cnjy.com/" class="view_all to-zujuan">添加到组卷</a> 
+                </p><p>
+              </p></li>
+                    <li><!--<br />-->
+                默写，或根据课文填空。（16分）<br>【小题1】《酬乐天扬州初逢席上见赠》诗中有一联是千古名句，现在常用它来说明新事物必将取代旧事物，这两句是______________________ ，______________________。（2分）<br>【小题2】《赤壁》一诗蕴含机遇造人的哲理，隐含着诗人对自己生不逢时、怀才不遇的慨叹之情又是想像的诗句（小中见大论东吴命运）是：_____________ ，____________。（2分）<br>【小题3】《过零丁洋》中脍炙人口，表现诗人誓死报国，表现诗人崇高的爱国情怀与坚贞的民族气节忠心不改，（大义凛然、舍生取义）的诗句的句子_________,__________. （2分）<br>【小题4】《水调歌头》词中对一切经受着离别之苦的人表示美好祝愿（集中表达词人对亲人的怀念、祝愿和慰藉）的句子是: _______________，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。（2分）<br>【小题5】《山坡羊.潼关怀古》曲中的主旨句是______________；______________。（2分）<br>【小题6】《赠从弟（其二）》诗中以松为喻，借松的高洁品性赞“从弟”品格高洁的诗句：____________________，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。（2分）<br>【小题7】《送杜少府之任蜀州》诗中表达诗人旷达胸襟，起画龙点睛作用的诗句：____________________，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。（2分）<br>【小题8】屈原《远游》中有句云：“惟天地之无穷兮，哀人生之长勤。”《登幽州台歌》中与此意思相似的诗句：____________________，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。（2分）                <p class="btns">
+                <a target="_blank" href="quest/MTO0A__QMT0N.html" class="view_all">查看解析</a>  <a target="_blank" href="http://zujuan.21cnjy.com/" class="view_all to-zujuan">添加到组卷</a> 
+                </p><p>
+              </p></li>
+                    <li><!--<br />-->
+                文言文阅读。<br>[甲] 送东阳马生序（节选）<br>余幼时即嗜学。家贫，无从致书以观，每假借于藏书之家，手自笔录，计日以还。天大寒，砚冰坚，手指不可屈伸，弗之怠。录毕，走送之，不敢稍逾约。<u>以是人多以书假余，余因得遍观群书</u>。既加冠，益慕圣贤之道。又患无硕师名人与游，尝趋百里外，从乡之先达执经叩问。先达德隆望尊，门人弟子填其室，未尝稍降辞色。余立侍左右，援疑质理，俯身倾耳以请；或遇其叱咄，色愈恭，礼愈至，不敢出一言以复；俟其欣悦，则又请焉。故余虽愚，卒获有所闻。<br> [乙] 孙权劝学<br>初，权谓吕蒙曰：“卿今当涂掌事，不可不学！”<u>蒙辞以军中多务</u>。权日：“孤岂欲卿治经为博士邪！但当涉猎，见往事耳。卿言多务，孰若孤？孤常读书，自以为大有所益。”蒙乃始就学。及鲁肃过寻阳，与蒙论议，大惊曰：“卿今者才略，非复吴下阿蒙！”蒙曰：“士别三日，即更刮目相待，大兄何见事之晚乎！”肃遂拜蒙母，结友而别。<br>[丙]行路难（其一）（李白）<br>金樽清酒斗十千，玉盘珍羞直万钱。停杯投箸不能食，拔剑四顾心茫然。<br>欲渡黄河冰塞川，将登太行雪满山。闲来垂钓碧溪上，忽复乘舟梦日边。<br>行路难！行路难！多歧路，今安在？长风破浪会有时，直挂云帆济沧海。<br>【小题1】下列各组句中划线词的意义相同的一项是（&nbsp;&nbsp;&nbsp;&nbsp;）（3分） 　　<table name="optionsTable" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="50%">A．每假借<u>于</u>藏书之家此所谓战胜<u>于</u>朝廷<b class="this_jammer" alt="免费中小学题库">" d9 C' ?: ^# L0 i7 a</b> </td><td width="50%">B．当余<u>之</u>从师也予独爱莲<u>之</u>出淤泥而不染<address class="this_jammer" alt="21题库">2 S" g/ U2 I# W% Q4 K. U</address> </td></tr><tr><td width="50%">C．色愈恭，礼愈<u>至</u>则其受于人者不<u>至</u>也<b class="this_jammer" title="中小学题库">; b&amp; Z* X3 c- M</b> </td><td width="50%">D．<u>益</u>慕圣贤之道自以为大有所<u>益</u><span class="this_jammer" alt="免费中小学题库">  E( c, W$ T' `% B* C  N( ], f</span> </td></tr></tbody></table>【小题2】下列句子中划线词古今意义相同的一项是（&nbsp;&nbsp;&nbsp;&nbsp;）（3分）<table name="optionsTable" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="50%">A．录毕，<u>走</u>送之，不敢稍逾约。<u class="this_jammer" alt="21题库">$ h- P/ d( V5 _3 U6 a</u> </td><td width="50%">B．孤岂欲卿治经为<u>博士</u>邪！<span class="this_jammer" alt="21题库">% X: Y; W# N. P6 H4 Q2 J</span> </td></tr><tr><td width="50%">C．但当涉猎，见<u>往事</u>耳。<address class="this_jammer" title="tiku.21cnjy.com">% P( _) D; B/ K5 C</address> </td><td width="50%">D．蒙乃<u>始</u>就学。<u class="this_jammer" title="tiku.21cnjy.com">1 h" \6 j" J( K&amp; f9 c1 b! @</u> </td></tr></tbody></table>【小题3】把文言文中画横线句子翻译成现代汉语。（4分）<br>1是人多以书假余，余因得遍观群书。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②蒙辞以军中多务。<br>【小题4】[甲][乙]两文都是长者劝后辈读书，劝说方式有何相同之处？宋濂、吕蒙两人的成功对你有什么启发？（4分）<br>【小题5】丙]诗中“闲来垂钓碧溪上，忽复乘舟梦日边”，诗人这样写的言外之意是什么? （2分）<br>【小题6】[丙]诗中“长风破浪会有时，直挂云帆济沧海”中的“破”“挂”妙在何处。（2分）                <p class="btns">
+                <a target="_blank" href="quest/MzN1A__AMT3O.html" class="view_all">查看解析</a>  <a target="_blank" href="http://zujuan.21cnjy.com/" class="view_all to-zujuan">添加到组卷</a> 
+                </p><p>
+              </p></li>
+                    <li><!--<br />-->
+                补写出下列名句名篇中的空缺部分。（只选做三小题）（3分）<br>【小题1】花间一壶酒，独酌无相亲。<span style="text-decoration:underline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>，<span style="text-decoration:underline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>。（李白《月下独酌》）<br>【小题2】黑云压城城欲摧，<span style="text-decoration:underline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>。角声满天秋色里，<span style="text-decoration:underline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>。（李贺《雁门太守行》）<br>【小题3】<span style="text-decoration:underline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>，在河之洲。窈窕淑女，<span style="text-decoration:underline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>。（《诗经》）<br>【小题4】<span style="text-decoration:underline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>，出则无敌国外患者，国恒亡，然后知<span style="text-decoration:underline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>。（《孟子》）                <p class="btns">
+                <a target="_blank" href="quest/MzM3A__gMT2N.html" class="view_all">查看解析</a>  <a target="_blank" href="http://zujuan.21cnjy.com/" class="view_all to-zujuan">添加到组卷</a> 
+                </p><p>
+              </p></li>
+                <ul>
+      </ul></ul></div>
+    </div>
+  </div>
+  <div class="cl"></div>
+
+<div class="fenye"><div class="pg"><strong>1</strong><a href="/tiku.php?mod=quest&amp;channel=2&amp;xd=2&amp;page=2">2</a><a href="/tiku.php?mod=quest&amp;channel=2&amp;xd=2&amp;page=3">3</a><a href="/tiku.php?mod=quest&amp;channel=2&amp;xd=2&amp;page=4">4</a><a href="/tiku.php?mod=quest&amp;channel=2&amp;xd=2&amp;page=5">5</a><a href="/tiku.php?mod=quest&amp;channel=2&amp;xd=2&amp;page=6">6</a><a href="/tiku.php?mod=quest&amp;channel=2&amp;xd=2&amp;page=7">7</a><a href="/tiku.php?mod=quest&amp;channel=2&amp;xd=2&amp;page=8">8</a><a href="/tiku.php?mod=quest&amp;channel=2&amp;xd=2&amp;page=9">9</a><a href="/tiku.php?mod=quest&amp;channel=2&amp;xd=2&amp;page=10">10</a><a href="/tiku.php?mod=quest&amp;channel=2&amp;xd=2&amp;page=4959" class="last">... 4959</a><label><input type="text" name="custompage" class="px" size="2" title="输入页码，按回车快速跳转" value="1" onkeydown="if(event.keyCode==13) {window.location='/tiku.php?mod=quest&amp;channel=2&amp;xd=2&amp;page='+this.value;; doane(event);}"><span title="共 4959 页"> / 4959 页</span></label><a href="/tiku.php?mod=quest&amp;channel=2&amp;xd=2&amp;page=2" class="nxt">下一页</a></div></div>
+  <div class="cl"></div>
+</div>
